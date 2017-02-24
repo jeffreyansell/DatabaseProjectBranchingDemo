@@ -2,8 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Database1/.vs
-/Database1/Database1/bin
-/Database1/Database1/obj
-/Database1/Database1/Database1.sqlproj.user
+*.dbmdl
+*.user
+.vs/
+bin/
+obj/
+
 
