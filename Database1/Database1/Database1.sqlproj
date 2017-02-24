@@ -76,5 +76,6 @@
     <Build Include="Work\Tables\Table2.sql" />
     <Build Include="Final\Tables\Table2.sql" />
     <Build Include="Work\Stored Procedures\Procedure2.sql" />
+    <Build Include="Final\Stored Procedures\Procedure2.sql" />
   </ItemGroup>
 </Project>
