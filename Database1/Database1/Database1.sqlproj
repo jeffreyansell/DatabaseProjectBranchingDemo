@@ -74,5 +74,6 @@
     <Build Include="Final\Tables\Table1.sql" />
     <Build Include="Work\Tables\Table1.sql" />
     <Build Include="Work\Tables\Table2.sql" />
+    <Build Include="Final\Tables\Table2.sql" />
   </ItemGroup>
 </Project>
