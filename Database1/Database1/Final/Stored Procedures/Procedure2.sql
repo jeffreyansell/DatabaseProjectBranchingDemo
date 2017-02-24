@@ -1,5 +1,6 @@
 ﻿CREATE PROCEDURE [Final].[Procedure2]
-
+	@param1 int = 0,
+	@param2 int
 AS
-	SELECT 'Update Final Proc2 first time.'
+	SELECT @param1, @param2
 RETURN 0
