@@ -80,6 +80,7 @@
     <Build Include="Work\Tables\Table3.sql" />
     <Build Include="Final\Tables\Table3.sql" />
     <Build Include="Work\Stored Procedures\Procedure3.sql" />
+    <Build Include="Work\Tables\Table4.sql" />
     <Build Include="Work\Tables\Table5.sql" />
   </ItemGroup>
 </Project>

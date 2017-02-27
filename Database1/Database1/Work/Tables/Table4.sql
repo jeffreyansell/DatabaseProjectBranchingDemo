@@ -1,0 +1,4 @@
+﻿CREATE TABLE [Work].[Table4]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)
