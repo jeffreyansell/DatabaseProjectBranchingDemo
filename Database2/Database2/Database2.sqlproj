@@ -66,8 +66,8 @@
     <Build Include="dbo\Stored Procedures\Procedure1.sql" />
   </ItemGroup>
   <ItemGroup>
-    <ArtifactReference Include="..\..\Database1\Database1\bin\Debug\Database1.dacpac">
-      <HintPath>..\..\Database1\Database1\bin\Debug\Database1.dacpac</HintPath>
+    <ArtifactReference Include="..\..\..\DacpacRepo\Dev\Database1.dacpac">
+      <HintPath>..\..\..\DacpacRepo\Dev\Database1.dacpac</HintPath>
       <SuppressMissingDependenciesErrors>False</SuppressMissingDependenciesErrors>
       <DatabaseVariableLiteralValue>Database1</DatabaseVariableLiteralValue>
     </ArtifactReference>
